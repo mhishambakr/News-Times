@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+table, td, tr {
+    border-collapse: collapse;
+    border: 1px solid black;
+    vertical-align: top;
+}
+h2 {
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+}
+p {
+    font-size: 17px;
+    font-weight: 200;
+    text-align: left;
+}
+.container{
+    font-size: x-large;
+    font-weight: 200;
+    text-align: left;
+    display: grid;
+    grid-template-rows: auto;
+    height: 100%;
+}
+.category_1{
+    background-color: yellow;
+}
+.category_2{
+    background-color: cadetblue;
+}
+.category_3{
+    background-color: chartreuse;
+}
+.category_4{
+    background-color: cornflowerblue;
+}
+.category_5{
+    background-color: purple;
+}
